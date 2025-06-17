@@ -15,12 +15,17 @@
   🎯 <strong>What drives me:</strong> Creativity, growth, and the ambition to build useful, ethical, and scalable solutions.
 </p>
 
-<p align="center">
-  🧠 <strong>My Passions:</strong><br>
-  Machine Learning 🤖 · Cybersecurity 🛡️ · Digital Marketing 📣<br>
-  Video Editing 🎬 · YouTube Automation 📽️ · Community Building 🌍<br>
-  Coding 💻 · Storytelling ✍️ · Manga & Chess ♟️ · Science 🔬
-</p>
+<h3 align="center">🧠 My Core Passions</h3>
+
+<ul>
+  <li>🎬 <strong>Video Editing</strong> – Short-form storytelling, post-production, and automated video workflows</li>
+  <li>📽️ <strong>YouTube Automation</strong> – AI-generated scripts, voiceovers (ElevenLabs), visuals (Leonardo.ai), and content scaling</li>
+  <li>🌍 <strong>Community Building</strong> – Audience engagement, online presence growth, and social impact</li>
+  <li>💻 <strong>Coding</strong> – Fullstack development, scripting, API integration, and automation</li>
+  <li>✍️ <strong>Storytelling</strong> – Creative writing, narrative structure, and emotion-driven content</li>
+  <li>♟️ <strong>Manga & Chess</strong> – Strategic thinking, creative immersion, and intellectual challenge</li>
+  <li>🔬 <strong>Science</strong> – Passion for knowledge, curiosity about the universe, biology, and emerging technologies</li>
+</ul>
 
 ---
 
