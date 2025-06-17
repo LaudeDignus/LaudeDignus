@@ -60,7 +60,7 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/mouhamed-wade-97a967345/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="https://x.com/LaudeDignus" target="_blank"><img src="https://img.shields.io/badge/X%20(Twitter)-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"></a>
+  <a href="https://x.com/@Laude_Dignus_01" target="_blank"><img src="https://img.shields.io/badge/X%20(Twitter)-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"></a>
   <a href="mailto:ahmedwade001@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
 </p>
 
