@@ -24,7 +24,7 @@ Mouhamed Wade</a></h1>
 </a>
 <ul>
   <li>
-    <p>🔭 I’m currently working in <a href="https://phoenix.tech/griffyn/" target="blank">Zone 01 Dakar</a></p>
+    <p>🔭 I’m currently working in <a href="https://www.zone01dakar.sn/" target="blank">Zone 01 Dakar</a></p>
   </li>
   <li>
     <p>🌱 I’m currently building tools using HTML, CSS, JavaScript, React, Next.js, and Python.</p>
