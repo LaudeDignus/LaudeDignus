@@ -1,4 +1,3 @@
-
 <h1 align="center">Hi 👋, I'm <a href="https://LaudeDignus.github.io/Me.io/" target="blank">
 Mouhamed Wade</a></h1>
 <h3 align="center">
@@ -46,7 +45,7 @@ Mouhamed Wade</a></h1>
     </ul>
   </li>
   <li>
-    <p>📄 Know about my experiences <a href="https://github.com/LaudeDignus/LaudeDignus/LaudeDignus.pdf" target="blank">CV</a></p>
+    <p><a href="https://github.com/LaudeDignus/LaudeDignus/raw/main/Mouhamed Wade.pdf" target="blank"><img src="https://img.shields.io/badge/My%20Resume-Click%20Here-blueviolet?style=for-the-badge&logo=read-the-docs&logoColor=white" alt="Mon Cv"></a></p>
     <br>
   </li>
 </ul>
