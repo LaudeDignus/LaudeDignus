@@ -69,16 +69,3 @@
   <a href="mailto:ahmedwade001@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
 </p>
 
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=LaudeDignus&theme=react&show_icons=true&include_all_commits=true" />
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LaudeDignus&theme=react&layout=compact" />
-</p>
-
----
-
-<p align="center">📌 Credit: <a href="https://github.com/LaudeDignus">LaudeDignus</a></p>
-<p align="center">📝 Last Edited on: 17/06/2025</p>
