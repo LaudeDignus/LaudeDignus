@@ -1,12 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=210&section=header&text=Mouhamed%20Wade&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full-Stack%20Engineer%20·%20AI%20Systems%20Builder%20·%20Product%20Builder&descSize=16&descAlignY=55" width="100%"/>
+<img src="./assets/profile-header.svg" width="100%" alt="Mouhamed Wade — Full-Stack Engineer, AI Systems Builder, Product Builder"/>
 
-<a href="https://github.com/LaudeDignus">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=23&pause=1200&color=6366F1&center=true&vCenter=true&width=780&lines=Building+AI-powered+products;Designing+agentic+systems+%26+developer+tools;Turning+ideas+into+real+software;From+Africa+to+the+world+🌍" alt="Typing SVG" />
-</a>
-
-<br/><br/>
+<br/>
 
 <a href="https://www.linkedin.com/in/mouhamed-wade-97a967345/">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0D1117" alt="LinkedIn"/>
@@ -22,6 +18,10 @@
 
 <img src="https://komarev.com/ghpvc/?username=LaudeDignus&label=Profile%20views&color=6366f1&style=flat-square" alt="Profile views"/>
 <img src="https://img.shields.io/github/followers/LaudeDignus?label=Followers&style=flat-square&color=6366f1&labelColor=0D1117" alt="Followers"/>
+
+<br/><br/>
+
+<code>Building systems. Shipping products. Exploring intelligence.</code>
 
 </div>
 
