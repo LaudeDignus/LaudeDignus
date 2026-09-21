@@ -4,23 +4,17 @@
 
 <strong>Building systems · Shipping products · Exploring intelligence.</strong>
 
-<p>
-  <a href="https://www.linkedin.com/in/mouhamed-wade-97a967345/" title="LinkedIn">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" height="24" alt="LinkedIn"/>
-  </a>
-  &nbsp;&nbsp;_&nbsp;&nbsp;
-  <a href="mailto:ahmedwade001@gmail.com" title="Email">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" height="24" alt="Email"/>
-  </a>
-  &nbsp;&nbsp;_&nbsp;&nbsp;
-  <a href="https://x.com/Laude_Dignus_01" title="X">
-    <img src="https://img.shields.io/badge/X-161B22?style=flat-square&logo=x&logoColor=white" height="24" alt="X"/>
-  </a>
-  &nbsp;&nbsp;_&nbsp;&nbsp;
-  <a href="https://leetcode.com/u/laudedignus/" title="LeetCode">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=white" height="24" alt="LeetCode"/>
-  </a>
-</p>
+<br/>
+
+<a href="https://www.linkedin.com/in/mouhamed-wade-97a967345/" title="LinkedIn"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" height="24" alt="LinkedIn"/></a>
+&nbsp;_&nbsp;
+<a href="mailto:ahmedwade001@gmail.com" title="Email"><img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" height="24" alt="Email"/></a>
+&nbsp;_&nbsp;
+<a href="https://x.com/Laude_Dignus_01" title="X"><img src="https://img.shields.io/badge/X-161B22?style=flat-square&logo=x&logoColor=white" height="24" alt="X"/></a>
+&nbsp;_&nbsp;
+<a href="https://leetcode.com/u/laudedignus/" title="LeetCode"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=white" height="24" alt="LeetCode"/></a>
+
+<br/>
 
 <img src="https://komarev.com/ghpvc/?username=LaudeDignus&label=Profile%20views&color=6366f1&style=flat-square" alt="Profile views"/>
 <img src="https://img.shields.io/github/followers/LaudeDignus?label=Followers&style=flat-square&color=6366f1&labelColor=0D1117" alt="Followers"/>
@@ -73,9 +67,7 @@ class MouhamedWade:
 | 🚀 | Turning ideas into **real products** |
 | 🧠 | Exploring **agents, RAG & local AI** |
 | 🛠️ | Working across **product + engineering** |
-| 🌍 | Building from **Dakar, Senegal** |
 | ♟️ | Chess, systems thinking & continuous learning |
-| 💬 | Open to **tech, OSS & product conversations** |
 
 </td>
 </tr>
@@ -190,13 +182,10 @@ Current interests: **RAG · MCP · local AI infrastructure · agent orchestratio
 
 <img src="https://skillicons.dev/icons?i=linux,docker,git,github,vercel,postman&theme=dark" alt="Tools"/>
 
-<br/>
+<br/><br/>
 
-<sub>
-<b>AI & systems:</b> Ollama · RAG · MCP · Agent orchestration
-&nbsp;&nbsp;|&nbsp;&nbsp;
-<b>Media tooling:</b> FFmpeg · Whisper
-</sub>
+<sub><b>AI & systems</b> — Ollama · RAG · MCP · Agent orchestration</sub><br/>
+<sub><b>Media tooling</b> — FFmpeg · Whisper</sub>
 
 </div>
 
@@ -205,6 +194,8 @@ Current interests: **RAG · MCP · local AI infrastructure · agent orchestratio
 ## 🧭 How I think
 
 I care less about collecting frameworks and more about understanding **systems, trade-offs and real-world usage**.
+
+**Build before theorizing · Understand the system · Ship to real users**
 
 **Systems → Products → Automation → Intelligence**
 
