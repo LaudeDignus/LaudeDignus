@@ -6,19 +6,19 @@
 
 <p>
   <a href="https://www.linkedin.com/in/mouhamed-wade-97a967345/" title="LinkedIn">
-    <img src="https://cdn.simpleicons.org/linkedin/0A66C2" height="30" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" height="24" alt="LinkedIn"/>
   </a>
-  &nbsp;&nbsp;&nbsp;
+  &nbsp;&nbsp;_&nbsp;&nbsp;
   <a href="mailto:ahmedwade001@gmail.com" title="Email">
-    <img src="https://cdn.simpleicons.org/gmail/EA4335" height="30" alt="Email"/>
+    <img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" height="24" alt="Email"/>
   </a>
-  &nbsp;&nbsp;&nbsp;
+  &nbsp;&nbsp;_&nbsp;&nbsp;
   <a href="https://x.com/Laude_Dignus_01" title="X">
-    <img src="https://cdn.simpleicons.org/x/FFFFFF" height="30" alt="X"/>
+    <img src="https://img.shields.io/badge/X-161B22?style=flat-square&logo=x&logoColor=white" height="24" alt="X"/>
   </a>
-  &nbsp;&nbsp;&nbsp;
+  &nbsp;&nbsp;_&nbsp;&nbsp;
   <a href="https://leetcode.com/u/laudedignus/" title="LeetCode">
-    <img src="https://cdn.simpleicons.org/leetcode/FFA116" height="30" alt="LeetCode"/>
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=white" height="24" alt="LeetCode"/>
   </a>
 </p>
 
@@ -94,18 +94,16 @@ class MouhamedWade:
 
 ### 🧠 Mofiha
 
-> **Open-source AI framework** — cognitive workspace for agentic systems.
+> **AI framework** — cognitive workspace for agentic systems.
 
-A framework for building model-agnostic AI systems that can work across local and frontier models, providers, tools and services.
+A model-agnostic foundation for building agentic systems across local and frontier models.
 
 - Provider & model abstraction
-- Capability-based architecture
-- Local / cloud AI interoperability
-- Agent tools and services
+- Capability-driven architecture
+- Local / cloud interoperability
 - CLI-first developer experience
-- Privacy-aware execution
 
-`Python` `AI Agents` `LLM` `Ollama` `CLI` `Open Source`
+`Python` `AI Agents` `LLM` `Ollama` `CLI`
 
 </td>
 
@@ -117,12 +115,10 @@ A framework for building model-agnostic AI systems that can work across local an
 
 A lightweight commerce platform designed to help merchants manage products, sales, inventory, expenses and WhatsApp orders without unnecessary complexity.
 
-- Product catalogue
-- Sales & expenses
-- Inventory management
-- Public storefront
-- WhatsApp commerce
-- Business dashboard
+- Catalogue & public storefront
+- Sales, expenses & inventory
+- WhatsApp commerce workflows
+- Business dashboard & operations
 
 `Next.js` `TypeScript` `Supabase` `PostgreSQL` `Vercel`
 
@@ -144,12 +140,10 @@ A lightweight commerce platform designed to help merchants manage products, sale
 
 A production engine designed to transform an idea or script into structured, high-quality faceless video productions.
 
-- Editorial direction
-- Narrative orchestration
-- Visual sourcing
-- Deterministic rendering
-- Sound design
-- Automated production pipeline
+- Editorial & narrative orchestration
+- Visual and media sourcing
+- Deterministic FFmpeg rendering
+- Sound design & production automation
 
 `Python` `FFmpeg` `AI` `Automation` `Media Pipeline`
 
@@ -163,14 +157,7 @@ A production engine designed to transform an idea or script into structured, hig
 
 I regularly explore new problems through developer tools, AI experiments, learning systems and product prototypes.
 
-Current interests include:
-
-- RAG & knowledge systems
-- MCP & AI tool interoperability
-- Local AI infrastructure
-- Agent orchestration
-- Learning platforms
-- Developer experience
+Current interests: **RAG · MCP · local AI infrastructure · agent orchestration · learning systems · developer experience**
 
 <a href="https://github.com/LaudeDignus?tab=repositories">
   <img src="https://img.shields.io/badge/Explore%20my%20repositories-0D1117?style=for-the-badge&logo=github&logoColor=white" alt="Repositories"/>
@@ -205,11 +192,11 @@ Current interests include:
 
 <br/>
 
-<img src="https://img.shields.io/badge/Ollama-000000?style=flat-square&logo=ollama&logoColor=white" alt="Ollama"/>
-<img src="https://img.shields.io/badge/FFmpeg-007808?style=flat-square&logo=ffmpeg&logoColor=white" alt="FFmpeg"/>
-<img src="https://img.shields.io/badge/AI%20Agents-6366F1?style=flat-square&labelColor=0D1117" alt="AI Agents"/>
-<img src="https://img.shields.io/badge/RAG-6366F1?style=flat-square&labelColor=0D1117" alt="RAG"/>
-<img src="https://img.shields.io/badge/MCP-6366F1?style=flat-square&labelColor=0D1117" alt="MCP"/>
+<sub>
+<b>AI & systems:</b> Ollama · RAG · MCP · Agent orchestration
+&nbsp;&nbsp;|&nbsp;&nbsp;
+<b>Media tooling:</b> FFmpeg · Whisper
+</sub>
 
 </div>
 
@@ -217,29 +204,11 @@ Current interests include:
 
 ## 🧭 How I think
 
-I am interested in engineering beyond individual frameworks.
-
-My work increasingly revolves around:
+I care less about collecting frameworks and more about understanding **systems, trade-offs and real-world usage**.
 
 **Systems → Products → Automation → Intelligence**
 
-I like understanding how components interact, where abstractions break, how products reach real users, and how AI can become infrastructure rather than simply another API call.
-
-```text
-Idea
- ↓
-Research
- ↓
-Architecture
- ↓
-Prototype
- ↓
-Engineering
- ↓
-Real-world usage
- ↓
-Measure → Learn → Iterate
-```
+`Idea → Research → Architecture → Prototype → Ship → Measure → Learn → Iterate`
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,20,24&height=3" width="100%"/>
 
@@ -254,33 +223,25 @@ Measure → Learn → Iterate
 <img width="43%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=LaudeDignus&theme=github_dark" alt="Stats"/>
 <img width="43%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=LaudeDignus&theme=github_dark" alt="Languages"/>
 
-<br/><br/>
-
-<img width="82%" src="https://streak-stats.demolab.com/?user=LaudeDignus&hide_border=true&border_radius=12&background=0d1117&stroke=6366f1&ring=6366f1&fire=6366f1&currStreakLabel=6366f1&sideLabels=c9d1d9&dates=8b949e&sideNums=c9d1d9&currStreakNum=c9d1d9" alt="GitHub streak"/>
-
-<br/><br/>
-
-<img width="92%" src="https://github-readme-activity-graph.vercel.app/graph?username=LaudeDignus&bg_color=0d1117&color=c9d1d9&line=6366f1&point=ffffff&area=true&area_color=6366f1&hide_border=true&radius=12" alt="Activity graph"/>
-
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,20,24&height=3" width="100%"/>
 
-## 🎓 Learning & certifications
+## 🎓 Background & certifications
 
-My path combines **software engineering, cloud, AI and hands-on product building**.
+My path is strongly **project-based**: software engineering fundamentals, full-stack product development, applied AI and continuous hands-on practice.
 
-| Area | Training / Certification |
+| Track | Background / Credential |
 |:--|:--|
-| 💻 Full-Stack | Edacy — Full-Stack Engineering |
-| ☁️ Cloud | AWS Cloud Practitioner |
-| ⚙️ DevOps | IBM DevOps & Software Engineering |
-| 🐍 Python | DataCamp — Introduction to Python |
-| 🌐 Web | freeCodeCamp — Responsive Web Design |
-| ⚡ JavaScript | freeCodeCamp — JavaScript |
-| 🧠 Practice | Real-world products, OSS & engineering projects |
+| 🧩 Software Engineering | **Zone01 Dakar** — 3-year project-based engineering program |
+| 💻 Full-Stack | **Edacy** — Full-Stack Engineering |
+| ⚙️ DevOps | **IBM** — DevOps & Software Engineering |
+| 🐍 Python | **DataCamp** — Introduction to Python |
+| 🌐 Web | **freeCodeCamp** — Responsive Web Design |
+| ⚡ JavaScript | **freeCodeCamp** — JavaScript |
+| 🧠 Applied practice | Production SaaS, AI tooling, automation & open-source projects |
 
-Continuous learning is part of the workflow — not a separate phase.
+> I learn by building systems that have to work outside the tutorial.
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,20,24&height=3" width="100%"/>
 
