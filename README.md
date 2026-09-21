@@ -1,27 +1,31 @@
 <div align="center">
 
-<img src="./assets/profile-header.svg" width="100%" alt="Mouhamed Wade — Full-Stack Engineer, AI Systems Builder, Product Builder"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=210&section=header&text=Mouhamed%20Wade&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full-Stack%20Engineer%20·%20AI%20Systems%20Builder%20·%20Product%20Builder&descSize=16&descAlignY=55" width="100%" alt="Mouhamed Wade"/>
 
-<br/>
+<strong>Building systems · Shipping products · Exploring intelligence.</strong>
 
-<a href="https://www.linkedin.com/in/mouhamed-wade-97a967345/">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0D1117" alt="LinkedIn"/>
-</a>
-<a href="mailto:ahmedwade001@gmail.com">
-  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0D1117" alt="Email"/>
-</a>
-<a href="https://leetcode.com/u/laudedignus/">
-  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white&labelColor=0D1117" alt="LeetCode"/>
-</a>
-
-<br/><br/>
+<p>
+  <a href="https://www.linkedin.com/in/mouhamed-wade-97a967345/" title="LinkedIn">
+    <img src="https://cdn.simpleicons.org/linkedin/0A66C2" height="30" alt="LinkedIn"/>
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="mailto:ahmedwade001@gmail.com" title="Email">
+    <img src="https://cdn.simpleicons.org/gmail/EA4335" height="30" alt="Email"/>
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://x.com/Laude_Dignus_01" title="X">
+    <img src="https://cdn.simpleicons.org/x/FFFFFF" height="30" alt="X"/>
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://leetcode.com/u/laudedignus/" title="LeetCode">
+    <img src="https://cdn.simpleicons.org/leetcode/FFA116" height="30" alt="LeetCode"/>
+  </a>
+</p>
 
 <img src="https://komarev.com/ghpvc/?username=LaudeDignus&label=Profile%20views&color=6366f1&style=flat-square" alt="Profile views"/>
 <img src="https://img.shields.io/github/followers/LaudeDignus?label=Followers&style=flat-square&color=6366f1&labelColor=0D1117" alt="Followers"/>
-
-<br/><br/>
-
-<code>Building systems. Shipping products. Exploring intelligence.</code>
+<img src="https://img.shields.io/badge/Dakar-Senegal-00853F?style=flat-square&labelColor=0D1117" alt="Dakar, Senegal"/>
+<img src="https://img.shields.io/badge/Open%20to-Collaboration-8B5CF6?style=flat-square&labelColor=0D1117" alt="Open to collaboration"/>
 
 </div>
 
