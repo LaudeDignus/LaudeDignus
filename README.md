@@ -6,12 +6,10 @@
 
 <br/>
 
+<a href="https://github.com/LaudeDignus/LaudeDignus/blob/main/Mouhamed%20Wade.pdf" title="Resume / CV"><img src="https://img.shields.io/badge/Resume%20%2F%20CV-6366F1?style=flat-square&logo=readthedocs&logoColor=white" height="24" alt="Resume / CV"/></a>
 <a href="https://www.linkedin.com/in/mouhamed-wade-97a967345/" title="LinkedIn"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" height="24" alt="LinkedIn"/></a>
-&nbsp;_&nbsp;
 <a href="mailto:ahmedwade001@gmail.com" title="Email"><img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" height="24" alt="Email"/></a>
-&nbsp;_&nbsp;
 <a href="https://x.com/Laude_Dignus_01" title="X"><img src="https://img.shields.io/badge/X-161B22?style=flat-square&logo=x&logoColor=white" height="24" alt="X"/></a>
-&nbsp;_&nbsp;
 <a href="https://leetcode.com/u/laudedignus/" title="LeetCode"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=white" height="24" alt="LeetCode"/></a>
 
 <br/>
@@ -42,16 +40,16 @@ class MouhamedWade:
     ]
 
     focus = [
-        "Agentic AI",
-        "Developer Tools",
-        "SaaS",
-        "Automation"
+        "Agent Runtimes & Sandboxed Execution",
+        "Local AI & Developer Tools",
+        "SaaS & Automation"
     ]
 
     building = [
         "Mofiha",
         "Miwodi",
-        "Narraxel"
+        "Narraxel",
+        "RepoAtlas"
     ]
 
     philosophy = "Build. Learn. Ship. Iterate."
@@ -65,7 +63,7 @@ class MouhamedWade:
 |:--:|:--|
 | 🤖 | Building **AI systems & developer tools** |
 | 🚀 | Turning ideas into **real products** |
-| 🧠 | Exploring **agents, RAG & local AI** |
+| 🧠 | Exploring **agent runtimes, local AI & sandboxed execution** |
 | 🛠️ | Working across **product + engineering** |
 | ♟️ | Chess, systems thinking & continuous learning |
 
@@ -86,6 +84,8 @@ class MouhamedWade:
 
 ### 🧠 Mofiha
 
+<img src="https://img.shields.io/badge/Status-Private-30363D?style=flat-square&labelColor=0D1117" alt="Private"/>
+
 > **AI framework** — cognitive workspace for agentic systems.
 
 A model-agnostic foundation for building agentic systems across local and frontier models.
@@ -102,6 +102,8 @@ A model-agnostic foundation for building agentic systems across local and fronti
 <td width="50%" valign="top">
 
 ### 🛒 Miwodi
+
+<img src="https://img.shields.io/badge/Status-Live-10B981?style=flat-square&labelColor=0D1117" alt="Live"/>
 
 > **SaaS** — commerce made simpler for small businesses.
 
@@ -128,6 +130,8 @@ A lightweight commerce platform designed to help merchants manage products, sale
 
 ### 🎬 Narraxel
 
+<img src="https://img.shields.io/badge/Status-Private-30363D?style=flat-square&labelColor=0D1117" alt="Private"/>
+
 > **Automated production studio** for documentary and visual-essay workflows.
 
 A production engine designed to transform an idea or script into structured, high-quality faceless video productions.
@@ -143,16 +147,23 @@ A production engine designed to transform an idea or script into structured, hig
 
 <td width="50%" valign="top">
 
-### 🧪 Experimental Lab
+### 🗺️ RepoAtlas
 
-> Where ideas become prototypes.
+<img src="https://img.shields.io/badge/Open%20Source-MIT-6366F1?style=flat-square&labelColor=0D1117" alt="Open Source MIT"/>
 
-I regularly explore new problems through developer tools, AI experiments, learning systems and product prototypes.
+> **Developer tool** — discover GitHub projects, creators and fork improvements locally.
 
-Current interests: **RAG · MCP · local AI infrastructure · agent orchestration · learning systems · developer experience**
+A zero-dependency Node.js local web app for exploring GitHub repositories, surfacing active creators and comparing unmerged work across forks with real code links.
 
-<a href="https://github.com/LaudeDignus?tab=repositories">
-  <img src="https://img.shields.io/badge/Explore%20my%20repositories-0D1117?style=for-the-badge&logo=github&logoColor=white" alt="Repositories"/>
+- Zero runtime dependencies (`Node.js >= 22.9`)
+- Project & developer discovery + fork diff comparison
+- Local-first security (`127.0.0.1`, Host/Origin/CSP guards, `0600` `.env`)
+- Streaming NDJSON progress & in-memory caching
+
+`Node.js` `Zero Dependencies` `GitHub API` `NDJSON` `MIT`
+
+<a href="https://github.com/LaudeDignus/repoatlas">
+  <img src="https://img.shields.io/badge/View%20RepoAtlas-0D1117?style=for-the-badge&logo=github&logoColor=white" alt="RepoAtlas"/>
 </a>
 
 </td>
@@ -162,17 +173,29 @@ Current interests: **RAG · MCP · local AI infrastructure · agent orchestratio
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,20,24&height=3" width="100%"/>
 
+## 🧩 Selected Systems & Originals
+
+| Project | Stack | Focus | Status |
+|:--|:--|:--|:--|
+| **Loxomind** | `Go` | Local AI agent trust & execution runtime with account-scoped IPC, tamper-evident hash-chained logging and git-backed snapshot rollback | `Private` |
+| **Weeryx** | `TypeScript` | Voice-first AI interface and workflow system | `Private` |
+| **Clefuge** | `Web Crypto` | Client-side cryptographic security and secret-handling utility | `Private` |
+| **Microcosme** | `Multi-agent simulation` | Emergent multi-agent environment and simulation engine | `Private` |
+| **Gambit Odyssey** | `Three.js` `Python` | Interactive 3D chess experience powered by a Python backend engine | `Private` |
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,20,24&height=3" width="100%"/>
+
 ## 🛠️ Engineering stack
 
 <div align="center">
 
 **Languages**
 
-<img src="https://skillicons.dev/icons?i=js,ts,python,html,css&theme=dark" alt="Languages"/>
+<img src="https://skillicons.dev/icons?i=js,ts,python,go,html,css&theme=dark" alt="Languages"/>
 
-**Frontend**
+**Frontend & 3D**
 
-<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,vite&theme=dark" alt="Frontend"/>
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,vite,threejs&theme=dark" alt="Frontend"/>
 
 **Backend & Data**
 
@@ -184,8 +207,8 @@ Current interests: **RAG · MCP · local AI infrastructure · agent orchestratio
 
 <br/><br/>
 
-<sub><b>AI & systems</b> — Ollama · RAG · MCP · Agent orchestration</sub><br/>
-<sub><b>Media tooling</b> — FFmpeg · Whisper</sub>
+<sub><b>AI & systems</b> — Agent runtimes · Local AI · Sandboxed execution · Ollama · RAG · MCP · Agent orchestration</sub><br/>
+<sub><b>Media & security</b> — FFmpeg · Whisper · Three.js · Web Crypto</sub>
 
 </div>
 
@@ -211,8 +234,7 @@ I care less about collecting frameworks and more about understanding **systems, 
 
 <br/>
 
-<img width="43%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=LaudeDignus&theme=github_dark" alt="Stats"/>
-<img width="43%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=LaudeDignus&theme=github_dark" alt="Languages"/>
+<img width="50%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=LaudeDignus&theme=github_dark" alt="Stats"/>
 
 </div>
 
@@ -241,6 +263,10 @@ My path is strongly **project-based**: software engineering fundamentals, full-s
 ## 🤝 Let's build something useful
 
 I'm interested in conversations around **software engineering, AI systems, SaaS, automation, open source and ambitious products**.
+
+<a href="https://github.com/LaudeDignus/LaudeDignus/blob/main/Mouhamed%20Wade.pdf">
+  <img src="https://img.shields.io/badge/Resume%20%2F%20CV-8B5CF6?style=for-the-badge&logo=readthedocs&logoColor=white&labelColor=0D1117" alt="Resume / CV"/>
+</a>
 
 <a href="mailto:ahmedwade001@gmail.com">
   <img src="https://img.shields.io/badge/Let's%20talk-6366F1?style=for-the-badge&labelColor=0D1117" alt="Contact"/>
